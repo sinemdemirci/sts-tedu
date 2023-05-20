@@ -1,0 +1,269 @@
+---
+title: "A Introduction to Systems Thinking and Systems Literacy"
+author: <em>Sinem Demirci, Ph.D.</em>
+date: "2023-05-23"
+date-format: "MMMM D[<sup style='font-size:65%;'>th</sup>], YYYY"
+format: 
+  revealjs:
+      theme: slide-style.scss
+      slide-number: true
+      incremental: true
+      chalkboard: true
+---
+
+
+## Hello!
+
+::: {style="text-align: center; font-size: 28px"}
+```{=html}
+<img src="img/sinem.jpeg" alt="A headshot of a woman with curly, short, shoulder-length hair with green eyes."
+  style="width: 280px; height: 280px; border-radius: 50%; margin-top: 5px; border: 1px solid whitesmoke; padding: 5px;">
+```
+<h1 style="font-size: 34px; margin-top: 20px;line-height: 0.5;">
+
+Sinem Demirci, PhD
+
+</h1>
+
+<h1 style="font-size: 34px; margin-top: 20px; line-height: 1.0;">
+
+Postdoctoral Visiting Researcher/Lecturer - UCL
+
+</h1>
+
+`r fontawesome::fa(name = "link")` <a href = "http://sinemdemirci.github.io" style="font-size: 28px; line-height: 0.5;">sinemdemirci.github.io</a>\
+`r fontawesome::fa(name = "github")` <a href = "http://github.com/sinemdemirci" style="font-size: 28px; line-height: 0.5;">sinemdemirci</a>\
+`r fontawesome::fa(name = "twitter")` <a href = "http://twitter.com/sinemmdemirci" style="font-size: 28px; line-height: 0.5;">sinemmdemirci</a>\
+`r fontawesome::fa(name = "linkedin")` <a href = "https://www.linkedin.com/in/drsinemdemirci/" style="font-size: 28px; line-height: 0.5;">drsinemdemirci</a>\
+`r fontawesome::fa(name = "envelope")` <a href = "mailto:s.demirci@ucl.ac.uk" style="font-size: 28px; line-height: 0.5;">s.demirci@ucl.ac.uk</a>\
+:::
+
+## Today's Outline
+
+::: {style="font-size: 32px"}
+In this talk, I will be talking about
+
+- Sustainable Development Goals (SDGs)
+- Discussion Questions for SDGs
+- An Introduction to Systems Thinking
+- Systems Thinking Frameworks
+- Systems Thinking vs. Systems Literacy
+- An Introduction to Systems Literacy
+- Systems Literacy and Its Relevance to SDGs
+- An Example Lecture Aimed at Enhancing Systems Literacy in the Context of Water Systems
+:::
+
+## Sustainable Development Goals
+
+<a title="United Nations, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sustainable_Development_Goals.png"><img width="4096" alt="Sustainable Development Goals" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sustainable_Development_Goals.png/4096px-Sustainable_Development_Goals.png"></a>
+
+## Discussion Questions for SDGs
+
+::: {style="font-size: 32px"}
+Let's explore these thought-provoking questions related to the SDGs:
+
+1. How effectively are the SDGs being implemented and monitored across global, national, and local levels?
+
+2. How does representing the SDGs as isolated components or factors, rather than emphasizing their interconnectedness and holistic nature, impact our understanding and implementation of the SDGs framework?
+
+3. In what ways can considering the interdependencies among the SDGs lead to more integrated and effective approaches in achieving sustainable development outcomes?
+
+:::
+
+##
+### An Introduction to Systems Thinking - I
+
+::: {style="font-size: 32px"}
+
+
+- Global issues are required systems thinking approach to examine and overcome the reasons and the effects of them (Richmond, 1993). 
+
+- Systems thinking skills have been attracting attention in science education, environmental education, and education for sustainable development.
+  - Some literacy studies in educational context included the concept of systems thinking as a component.
+    - Scientific literacy studies (e.g., Mun et al., 2015)
+    - Environmental literacy studies (e.g., McClaren 1989; Roth, 1984)
+    - Sustainability literacy studies (e.g., Nolet, 2009; Warren, Archambault & Foley, 2014 )
+- Systems thinking is accepted as one of the key competencies in sustainability (Wiek et al., 2011). 
+
+::: 
+
+##
+### An Introduction to Systems Thinking - II
+
+::: {style="font-size: 32px"}
+
+- Systems thinking enables individuals 
+  (1) to grasp and operate complex conditions (Tilbury, 1995); 
+  (2) to promote thinking the interrelationships through different social, environmental, economic, and educational components (WWF Scotland, 2010); and 
+  (3) to support grasping the reciprocal interactions and realizing that a decision lead to some unintended results of actions or/and events (UNECE 2010b).
+
+:::
+
+## Systems Thinking Frameworks - I
+::: {style="font-size: 32px"}
+- Capra (2005) claimed that system thinking emphasize 
+  - “wholes” rather than “parts”, 
+  - “processes” rather than “products”, 
+  - "seeking patterns" in systems rather than "analyzing systems" 
+- Moreover, he noted that systems thinking is related to the relationships, connectedness, and the context. 
+
+- In the context of ESD, Nolan (2009) identified systems thinking as a components of sustainability literacy.
+:::
+
+## Systems Thinking Frameworks - II
+::: {style="font-size: 32px"}
+Ben-Zvi Assaraf and Orion (2005) identified eight hierarchical characteristics for systems thinking as (p.523);
+
+1. The ability to identify the components of a system and processes within the system
+2. The ability to identify relationships among the system’s components.
+3. The ability to organize the systems’ components and processes within a framework of relationships
+4. The ability to make generalizations
+5. The ability to identify dynamic relationships within the system
+6. Understanding the hidden dimensions of the system
+7. The ability to understand the cyclic nature of the systems
+8. Thinking temporally
+
+:::
+
+## Systems Thinking Frameworks - III
+::: {style="font-size: 22px"}
+- Contrary to Ben-Zvi Assaraf and Orion (2005), Karaarslan (2016) constructed system thinking skills in a holistically, not hierarchically. These skills were set as (Karaarslan, 2016, pp.82-85);
+  - STS-1: The System Thinker identifies the meaning and key aspects of Sustainability
+  - STS-2: The System Thinker is able to see nature as a system
+  - STS-3: The System Thinker is able to identify components of a system
+  - STS-4: The System Thinker is able to analyze the interconnections among the aspects of sustainability by considering causes and consequences of the issues
+  - STS-5: The System Thinker is able to recognize hidden dimensions in a system
+  - STS-6: The System Thinker is able to recognize that he/she is a part of this system and has a responsibility in the system.
+  - STS-7: The System Thinker is able to consider the relationships between past, present and future.
+  - STS-8: The System Thinker is able to recognize cycling nature of the system.
+  - STS-9: The System Thinker develops empathy with other people
+  - STS-10: The System Thinker is able to develop empathy with non-human beings.
+  - STS-11: The System Thinker is able to build sense of place
+  - STS-12: The System Thinker is able to adapt systems thinking perspective to his/her daily life.
+  
+:::
+
+## Systems Thinking or...?
+
+::: columns
+::: {.column width="50%"}
+::: {style="font-size: 22px"}
+
+- The concept of systems thinking is being defined as a 
+  - competency (UNECE, 2011) or 
+  - component of   
+    - sustainability literacy (Nolet, 2009), 
+    - environmental literacy (Parkin et al., 2004) and 
+    - scientific literacy (Mun et al., 2015)
+    
+- Systems thinking requires 
+  - content knowledge (Ben-Zvi Assaraf & Orion, 2005), 
+  - contextual knowledge (Capra, 1996), 
+  - procedural knowledge (Nolet, 2009; Capra, 2005), 
+  - affective domain (Karaarslan, 2016),
+   
+:::
+:::
+
+::: {.column width="50%"}
+::: incremental
+::: {style="font-size: 22px"}
+
+- Systems thinking requires some skills such as 
+    - problem-solving (Mun et al., 2015), 
+    - the development of models (Mun et al., 2015), 
+    - making forecast in time (Ben-Zvi Assaraf & Orion, 2005; Karaarslan, 2016). 
+
+- The question is
+
+  - <span style="font-size:26px"><strong>Does systems thinking represent solely a thinking skill, or does it encompass a broader set of capabilities and perspectives?</strong></span>
+  
+:::
+:::
+:::
+:::
+
+
+## Systems Thinking or Systems Literacy?
+
+::: {style="font-size: 30px"}
+- In my dissertation, I argued that systems thinking has much more elements that transcend being a competency or being a component of a context-based literacy as a skill. Accordingly,
+  - The principles of systems science (Mobus & Kalton, 2015)
+  - Tailor this literacy description compatible with the general literary studies.
+  - Even though much of the existing literature on systems thinking in educational context preferred to use ‘systems thinking’, systems literacy have started to be studied in different disciplines at the beginning of 2000s even though its first pronunciation dated back to 1990s.
+:::
+
+## 
+### An Introduction to Systems Literacy - I
+
+::: {style="font-size: 22px"}
+
+- An early statement during 90s as “Clear systems thinking is one of the basic literacies of the modern world” (Mulgan, 1997, as cited in Reynolds, 2011, p.40). 
+
+- Wood (2012) described systems literacy as “Systems literacy is an evolved form of interdisciplinary research practice and pedagogy that calls for intellectual competence (not necessarily command) in a variety of fields in order to better address specific, real-world environmental problems. In essence, systems literacy combines the study of social history and cultural discourses with a technical understanding of ecosystem processes.” (pp.4-5). 
+
+- Henning and Chen (2012) critiqued that system thinking researchers is focusing on knowledge on the systems and argued that “The start of systems literacy is fact but knowing about systems requires more” (p.471). 
+
+- Sweeney (2012) described systems literacy as ‘level of knowledge about complex interrelationship’ (p.4). In terms of characteristics of systems literacy, she outlined that systems literate individuals are able to see multiple causes in occurrence of an event as well as grasp the importance of sharing commons such as water, air, land. 
+  - Contrary to some experts, as she reported, she claimed that many children have innate ability to see systems behavior without having formal training to learn how to do it. Moreover, Sweeney added that cultivating and developing systems literacy is relatively simple since contexts in daily life lend itself to achieve this.
+  
+:::
+
+## 
+### An Introduction to Systems Literacy - II
+
+::: {style="font-size: 22px"}
+- Dubberly (2015) presented a systems literacy manifesto in Third Symposium of Relating Systems Thinking to Design. He described that basic systems literacy for inventors, developers, and administrators requires three kinds of knowledge as following:
+1. A systems vocabulary, ‘the content of systems literacy, that is, command of a set of distinctions and entailments or relationships related to systems); 
+2. Systems reading skills, (skills of analysis, for recognizing common patterns in specific situations, e.g., identifying—finding and naming—a feedback loop); and 
+3. Systems writing skills, (skills of synthesis, for understanding and describing existing systems and for imagining and describing new systems). (p.3)
+
+
+- Ison and Shelley (2016) claimed that systems literacy encompasses systems thinking and systemic sensibility could be the overarching term for these two. They also highlighted that cultivating systems literacy and systems thinking are not on educational agenda which might be a limitation to achieve systems-literate individuals.
+
+- Tuddenham (2017) developed his interpretation of “systems literacy” based on his previous works on ocean literacy and earth science literacy. He described the notion of systems literacy as fundamental to achieving sustainability in socioecological systems. He defined it as “…a coordinated ongoing action to create a greater awareness and understanding about ‘Systems’ in the world, society, science and art, schools and universities and engineering and beyond.” (Tuddenham, 2017, p.625)
+
+:::
+
+## Systems Literacy - Dissertation Version
+
+::: {style="font-size: 28px"}
+- In my dissertation, based on the conceptual research on systems literacy frameworks, systems literacy was redefined as following:
+
+  - "Systems literacy is about being able to perceive systems that we interacted with and the  courses of our actions that interfere with those systems. This perception encompasses not only the level of knowledge about the general principles of systems but also includes cultural components as well as a set of other psychological constructs that might have a role in understanding and engaging those systems. A typical systems literate individual is expected to be sufficiently critically systems literate that relies on both adequate level of functional and cultural systems literacy. What is more, systems literature individuals are the ones who could be able to be aware of the fact that human systems have a potential to influence both the system mechanisms and individual and collective human behavior in a system."
+
+:::
+  
+##
+### A Visualization of Systems Literacy
+
+![](img/map-sl.png)
+
+##
+### Systems Literacy and Its Relevance to SDGs
+::: {style="font-size: 22px"}
+
+Let's conclude this part of the lecture by discussing together.
+
+- How can the development of systems literacy skills contribute to the achievement of the SDGs?
+
+- Currently, the 17 Sustainable Development Goals (SDGs) and 169 Targets provide a framework for global action that requires the integration of knowledge, skills, and behaviors (UN, 2021).
+
+  - However, from a systems science perspective, a socioecological systems approach (SES) is recommended as crucial in enhancing and transforming SDG initiatives to effectively address global issues.
+
+- International policy frameworks on SDGs (UNESCO, 2019) and  systems scientists (e.g., Mobus and Kalton, 2015; Tuddenham, 2017) highlight the role of education as a prerequisite for building capacities to mitigate and adapt to challenges arising from global issues within local contexts.
+
+  - Some education researchers criticize the school textbooks, which often depict disconnected concepts (Sharma and Buxton, 2015; Ghalichi et al., 2021), hindering the effective integration of systems-level perspectives.
+  
+  - Consequently, learners struggle to grasp the nature of real-life systems and their complex interactions with one another (Reid et al., 2021).
+  
+::: fragment
+Last question: 
+
+- **How can systems literacy be promoted within educational contexts?**
+:::
+:::
+
+## Reference List
+
+
