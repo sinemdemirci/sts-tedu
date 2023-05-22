@@ -95,7 +95,7 @@ Let's explore these thought-provoking questions related to the SDGs:
 - Systems thinking enables individuals 
   (1) to grasp and operate complex conditions (Tilbury, 1995); 
   (2) to promote thinking the interrelationships through different social, environmental, economic, and educational components (WWF Scotland, 2010); and 
-  (3) to support grasping the reciprocal interactions and realizing that a decision lead to some unintended results of actions or/and events (UNECE 2010b).
+  (3) to support grasping the reciprocal interactions and realizing that a decision lead to some unintended results of actions or/and events (UNECE 2011).
 
 :::
 
@@ -107,7 +107,7 @@ Let's explore these thought-provoking questions related to the SDGs:
   - "seeking patterns" in systems rather than "analyzing systems" 
 - Moreover, he noted that systems thinking is related to the relationships, connectedness, and the context. 
 
-- In the context of ESD, Nolan (2009) identified systems thinking as a components of sustainability literacy.
+- In the context of ESD, Nolet (2009) identified systems thinking as a components of sustainability literacy.
 :::
 
 ## Systems Thinking Frameworks - II
@@ -187,10 +187,10 @@ Ben-Zvi Assaraf and Orion (2005) identified eight hierarchical characteristics f
 ## Systems Thinking or Systems Literacy?
 
 ::: {style="font-size: 30px"}
-- In my dissertation, I argued that systems thinking has much more elements that transcend being a competency or being a component of a context-based literacy as a skill. Accordingly,
-  - The principles of systems science (Mobus & Kalton, 2015)
-  - Tailor this literacy description compatible with the general literary studies.
-  - Even though much of the existing literature on systems thinking in educational context preferred to use ‘systems thinking’, systems literacy have started to be studied in different disciplines at the beginning of 2000s even though its first pronunciation dated back to 1990s.
+- In my dissertation, I argued that systems thinking has much more elements that transcend being a competency or being a component of a context-based literacy as a skill. Accordingly, a definition to systems literacy was sought by
+  - integrating the principles of systems science (Mobus & Kalton, 2015)
+  - considering the critiques available in the general literary studies.
+- Even though much of the existing literature on systems thinking in educational context preferred to use ‘systems thinking’, systems literacy have started to be studied in different disciplines at the beginning of 2000s even though its first pronunciation dated back to 1990s.
 :::
 
 ## 
@@ -230,7 +230,7 @@ Ben-Zvi Assaraf and Orion (2005) identified eight hierarchical characteristics f
 ::: {style="font-size: 28px"}
 - In my dissertation, based on the conceptual research on systems literacy frameworks, systems literacy was redefined as following:
 
-  - "Systems literacy is about being able to perceive systems that we interacted with and the  courses of our actions that interfere with those systems. This perception encompasses not only the level of knowledge about the general principles of systems but also includes cultural components as well as a set of other psychological constructs that might have a role in understanding and engaging those systems. A typical systems literate individual is expected to be sufficiently critically systems literate that relies on both adequate level of functional and cultural systems literacy. What is more, systems literature individuals are the ones who could be able to be aware of the fact that human systems have a potential to influence both the system mechanisms and individual and collective human behavior in a system."
+  - "Systems literacy is about being able to perceive systems that we interacted with and the  courses of our actions that interfere with those systems. This perception encompasses not only the level of knowledge about the general principles of systems but also includes cultural components as well as a set of other psychological constructs that might have a role in understanding and engaging those systems. A typical systems literate individual is expected to be sufficiently **critically systems literate** that relies on both adequate level of **functional** and **cultural systems literacy**. What is more, systems literature individuals are the ones who could be able to be aware of the fact that human systems have a potential to influence both the system mechanisms and individual and collective human behavior in a system."
 
 :::
   
@@ -266,4 +266,61 @@ Last question:
 
 ## Reference List
 
+::: {style="font-size: 10px"}
 
+Ben-Zvi-Assaraf, O., & Orion, N. (2010b). System Thinking Skills at the Elementary School Level. Journal of Research in Science Teaching, 47(5), 540-563. doi:10.1002/tea.20351 
+
+Capra, F. (1996). The web of life: A new synthesis of mind and matter. HarperCollins. 
+
+Capra, F. (2005). Complexity and life. Theory, Culture & Society, 22(5), 33-44. 
+
+Dubberly H. (2015). A systems literacy manifesto. Proceedings of RSD3 2014 Symposium, Relating Systems Thinking and Design, October 2014. 
+
+Ghalichi, N., Schuchardt, A., & Roehrig, G. (2021). Systems Object Framework: a framework for describing students’ depiction of object organisation within systems. International Journal of Science Education, 43(10), 1618-1639. https://doi.org/10.1080/09500693.2021.1923855  
+
+Henning, B.P., & Chen, W. C. (2012). Systems thinking: Common ground or untapped territory? Systems Research and Behavioral Science, 29(5), 470-483. 
+
+Ison, R., & Shelley, M. (2016). Governing in the Anthropocene: contributions from systems thinking in practice? Systems Research and Behavioral Science, 33(5), 589-594.
+
+Karaarslan, G. (2016). Science teachers as ESD educators: an outdoor ESD model for developing systems thinking skills (Unpublished doctoral dissertation). Middle East Technical University, Turkey.
+
+McClaren, M. (1989). Environmental literacy. A critical element of a liberal education for the 21st century. Alces, 25, 168-171.
+ 
+Mobus, G. E., & Kalton, M. C. (2015). Principles of systems science. New York: Springer.
+
+Mun, K., Shin, N., Lee, H., Kim, S. W., Choi, K., Choi, S. Y., & Krajcik, J. S. (2015). Korean Secondary Students’ Perception of Scientific Literacy as Global Citizens: Using Global Scientific Literacy Questionnaire. International Journal of Science Education, 37(11), 1739-1766.
+
+Nolet, V. (2009). Preparing sustainability-literate teachers. Teachers College Record, 111(2), 409-442.
+
+
+Parkin, S., Johnson, A., Buckland, H., & White, E. (2004). Learning and skills for sustainable development: Developing a sustainability literate society. Higher Education Partnership for Sustainability (HEPS), London.
+
+Reid, A., Dillon, J., Ardoin, N., & Ferreira, J-A. (2021). Scientists’ warnings and the need to reimagine, recreate, and restore environmental education. Environmental Education Research, 27(6), 783-795. https://doi.org/10.1080/13504622.2021.1937577  
+
+Reynolds, M. (2011). Critical thinking and systems thinking: towards a critical literacy for systems thinking in practice. In: Horvath, Christopher P. and Forte, James M. eds. Critical Thinking. New York, USA: Nova Science Publishers, pp. 37–68.
+
+Richmond, B. (1993). Systems thinking: critical thinking skills for the 1990s and beyond. System dynamics review, 9(2), 113-133.
+
+Roth. C. E. (1984). Elements of a workable strategy for developing and maintaining nationwide environmental literacy. Nature Study ,37(3-4), 46-48.
+
+Sharma, A., & Buxton, C. A. (2015). Human–Nature Relationships in School Science: A Critical Discourse Analysis of a Middle‐Grade Science Textbook. Science Education, 99(2), 260-281. https://doi.org/10.1002/sce.21147  
+
+Sweeney, L. B. (2012). Learning to connect the dots: Developing children’s systems literacy. Solutions, 5(3), 55-62.
+
+Tilbury, D. (1995). Environmental education for sustainability: Defining the new focus of environmental education in the 1990s. Environmental Education Research, 1(2), 195-212.
+
+Tuddenham, P. (2017). Observations on Systems Literacy at the International Society for Systems Sciences (ISSS) 2016 Conference. Systems Research and Behavioral Science, 34, 625-630. doi: 10.1002/sres.2491
+
+United Nations (2021). The 17 Goals. Retrieved from https://sdgs.un.org/goals  
+
+United Nations Economic Commission for Europe Strategy for Education for Sustainable Development [UNECE] (2011). Learning for the future: competencies in education for sustainable development. ECE/CEP/ AC.13/2011/6
+
+UNESCO (2019). Framework for the Implementation of Education for Sustainable Development (ESD) Beyond 2019. Retrieved from https://oneplanetnetwork.org/sites/default/files/40_c23_framework_for_the_implementation_of_esd_beyond_2019.pdf 
+
+Warren, A., Archambault, L., & Foley, R. W. (2014). Sustainability Education Framework for Teachers: Developing sustainability literacy through futures, values, systems, and strategic thinking. The Journal of Sustainability Education, 6.
+
+Wiek, A., Withycombe, L., & Redman, C. L. (2011). Key competencies in sustainability: a reference framework for academic program development. Sustainability science, 6(2), 203-218.
+
+
+WWF Scotland (2010). WWF Scotland Annual Review 2010: How we inspired change. Retrieved from http://assets.wwf.org.uk/downloads/review_sco2010_9.pdf
+:::
